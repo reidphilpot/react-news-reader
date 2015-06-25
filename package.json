@@ -1,0 +1,17 @@
+{
+  "name": "react-news-reader",
+  "version": "0.0.0",
+  "description": "News Reader written in React",
+  "scripts": {
+    "build": "sudo npm install && bower install"
+  },
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/reidphilpot/react-news-reader"
+  },
+  "author": "Reid Philpot",
+  "license": "MIT",
+  "devDependencies": {
+    "bower": "^1.4.1"
+  }
+}

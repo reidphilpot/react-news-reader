@@ -1,0 +1,25 @@
+{
+  "name": "react-news-reader",
+  "version": "0.0.0",
+  "authors": [
+    "Reid Philpot"
+  ],
+  "main": "news-reader.js",
+  "moduleType": [
+    "amd"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "react": "~0.13.3",
+    "jquery": "~2.1.4",
+    "marked": "~0.3.3",
+    "requirejs": "~2.1.18"
+  }
+}
